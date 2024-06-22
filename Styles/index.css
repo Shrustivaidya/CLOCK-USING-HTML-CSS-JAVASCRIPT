@@ -4,7 +4,7 @@
     /*border:2px solid red;*/
     height: 24vw;
     width: 23vw;
-    background: url(clock.jpg) no-repeat;
+    background: url(/CLOCK-USING-HTML-CSS-JAVASCRIPT/Images/clock.jpg) no-repeat;
     background-size: 100%;
 }
 #hour, #minute, #second{
